@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+title: >-
+  Ramp-Event Directional Forecasting for Wind Power Integration:
+  A Regime-Stratified Ensemble with Direction-Focused Training
+message: >-
+  If you use this software or the regime-stratified evaluation
+  framework, please cite it using the metadata below.
+type: software
+authors:
+  - given-names: Konstantinos
+    family-names: Stergiou
+    affiliation: University of Thessaly
+  - given-names: Theodoros E.
+    family-names: Karakasidis
+    affiliation: University of Thessaly
+year: 2026
+license: MIT
+repository-code: 'https://github.com/USERNAME/REPO'
+abstract: >-
+  A regime-stratified evaluation framework and a five-specialist
+  ensemble trained with a direction-focused loss for wind power
+  ramp-event directional forecasting, using only on-site SCADA
+  wind-speed and active-power signals.
+keywords:
+  - wind power
+  - ramp events
+  - directional accuracy
+  - regime-stratified evaluation
+  - deep learning
+  - uncertainty quantification
+preferred-citation:
+  type: article
+  title: >-
+    Ramp-Event Directional Forecasting for Wind Power Integration:
+    A Regime-Stratified Ensemble with Direction-Focused Training
+  authors:
+    - given-names: Konstantinos
+      family-names: Stergiou
+    - given-names: Theodoros E.
+      family-names: Karakasidis
+  journal: Energies
+  publisher: MDPI
+  year: 2026
+  notes: Under review
