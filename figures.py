@@ -1,5 +1,5 @@
 """
-make_figures.py — Manuscript figures for Stergiou & Karakasidis
+figures.py — Manuscript figures for Stergiou & Karakasidis
 ================================================================================
 Ramp-Event Directional Forecasting for Wind Power Integration.
  
